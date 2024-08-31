@@ -1,0 +1,1 @@
+  // cout<<"Public:"<<obj.c;
