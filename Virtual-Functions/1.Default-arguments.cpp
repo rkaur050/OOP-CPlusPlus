@@ -25,3 +25,6 @@ int main()
     bptr->show();
     return 0;
 }
+
+//Removing virtual keyword from Base class will lead to the calling of Base class show() function as this will be resolved at compile time based on type of pointer.
+//Adding it calls Derived class show() as this will be resolved at run time.
