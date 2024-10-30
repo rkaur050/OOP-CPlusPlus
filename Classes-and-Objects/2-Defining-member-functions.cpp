@@ -34,4 +34,4 @@ int main()
 }
 
 //Inline Functions - the function call is replaced with actual code itself reducing the overhead for function
-//call leading to improved performance and time consumption is less and execution speed is increased.Generally, used for smalleer and frequent functions.
+//call leading to improved performance and time consumption is less and execution speed is increased.Generally, used for smaller and frequent functions.
